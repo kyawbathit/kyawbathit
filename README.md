@@ -1,2 +1,0 @@
-# kyawbathit
-Starter
